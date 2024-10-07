@@ -1,7 +1,6 @@
 
 # Resumo/README para GitHub
 
-```markdown
 # 10 Design Patterns em TypeScript com Soluções para Problemas Reais
 
 ## Descrição
@@ -46,4 +45,3 @@ Este projeto demonstra a implementação de 10 padrões de design em TypeScript,
 **Diogo Felizardo**  
 [GitHub](https://github.com/diogofelizardo)  
 [LinkedIn](https://www.linkedin.com/in/diogofelizardo/)
-```
