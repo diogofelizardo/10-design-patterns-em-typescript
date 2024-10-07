@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                          // Define a versão do JavaScript a ser gerada
+    "module": "commonjs",                     // Define o sistema de módulos
+    "rootDir": "./src",                       // Diretório raiz dos arquivos TypeScript
+    "outDir": "./dist",                       // Diretório de saída dos arquivos compilados
+    "strict": true,                           // Ativa todas as verificações de tipo estritas
+    "esModuleInterop": true,                  // Habilita a interoperabilidade de módulos ES
+    "forceConsistentCasingInFileNames": true  // Garante que os nomes dos arquivos tenham capitalização consistente
+  }
+}
